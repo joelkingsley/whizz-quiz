@@ -1,15 +1,15 @@
-#include<fstream.h>
-#include<stdlib.h>
-#include<conio.h>
-#include<string.h>
-#include<dos.h>
-#include<main2.h>
-#include<iomanip.h>
-#include"PHYSICSQ.cpp"
-#include"MATHSQ.cpp"
-#include"WORDSC.cpp"
-#include"CHEMQ.cpp"
-#include"BIGQ.cpp"
+#include <fstream.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <string.h>
+#include <dos.h>
+#include "user.h"
+#include <iomanip.h>
+#include "PHYSICSQ.cpp"
+#include "MATHSQ.cpp"
+#include "WORDSC.cpp"
+#include "CHEMQ.cpp"
+#include "BIGQ.cpp"
 
 
 void menu();
